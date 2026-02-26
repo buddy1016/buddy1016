@@ -41,10 +41,10 @@
         <a href="https://nextjs.org/docs/getting-started" title="NextJS"><img src="https://skillicons.dev/icons?i=nextjs" alt="NextJS" width="40" height="40"/></a>&emsp;
         <a href="https://astro.build/" title="Astro"><img src="https://skillicons.dev/icons?i=astro" alt="Astro" width="40" height="40"/></a>&emsp;
         <a href="https://tailwindcss.com/docs/installation" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="40" height="40"/></a>&emsp;
-        <a href="https://preactjs.com/" title="Preact.js"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/preactjs.svg" alt="Preact.js" width="40" height="40"/></a>&emsp;
-        <a href="https://d3js.org/" title="D3.js"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/d3js.svg" alt="D3.js" width="40" height="40"/></a>&emsp;
-        <a href="https://greensock.com/docs/" title="GSAP"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/gsap.svg" alt="GSAP" width="40" height="40"/></a>&emsp;
-        <a href="https://framer.com/motion/" title="Motion"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/framermotion.svg" alt="Motion" width="40" height="40"/></a>&emsp;
+        <a href="https://preactjs.com/" title="Preact.js"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/preactjs.svg" alt="Preact.js" width="40" height="40"/></a>&emsp;
+        <a href="https://d3js.org/" title="D3.js"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/d3js.svg" alt="D3.js" width="40" height="40"/></a>&emsp;
+        <a href="https://greensock.com/docs/" title="GSAP"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/gsap.svg" alt="GSAP" width="40" height="40"/></a>&emsp;
+        <a href="https://framer.com/motion/" title="Motion"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/framermotion.svg" alt="Motion" width="40" height="40"/></a>&emsp;
     </div>
 </div>
 <br/>
@@ -58,7 +58,7 @@
         <a href="https://learn.microsoft.com/en-us/dotnet/" title=".NET"><img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/></a>&emsp;
         <a href="https://firebase.google.com/docs" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40"/></a>&emsp;
         <a href="https://developers.google.com" title="Google API"><img src="https://skillicons.dev/icons?i=googlecloud" alt="Google API" width="40" height="40"/></a>&emsp;
-        <a href="https://next-auth.js.org/getting-started/introduction" title="Auth.js"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/nextauth.svg" alt="Auth.js" width="40" height="40"/></a>&emsp;
+        <a href="https://next-auth.js.org/getting-started/introduction" title="Auth.js"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nextauth.svg" alt="Auth.js" width="40" height="40"/></a>&emsp;
     </div>
 </div>
 <br/>
@@ -79,9 +79,9 @@
 <h3>State Management & Utilities</h3>
     <div>
         <a href="https://redux.js.org/introduction/getting-started" title="Redux"><img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="40" height="40"/></a>&emsp;
-        <a href="https://github.com/pmndrs/zustand" title="Zustand"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/zustand.webp" alt="Zustand" width="40" height="40"/></a>&emsp;
-        <a href="https://github.com/nanostores/nanostores" title="Nanostores"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/nanostores.svg" alt="Nanostores" width="40" height="40"/></a>&emsp;
-        <a href="https://tanstack.com/query/v4/docs/overview" title="TS Query"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/reactquery.svg" alt="TS Query" width="40" height="40"/></a>&emsp;
+        <a href="https://github.com/pmndrs/zustand" title="Zustand"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/zustand.webp" alt="Zustand" width="40" height="40"/></a>&emsp;
+        <a href="https://github.com/nanostores/nanostores" title="Nanostores"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/nanostores.svg" alt="Nanostores" width="40" height="40"/></a>&emsp;
+        <a href="https://tanstack.com/query/v4/docs/overview" title="TS Query"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/reactquery.svg" alt="TS Query" width="40" height="40"/></a>&emsp;
     </div>
 </div>
 <br/>
@@ -107,14 +107,14 @@
         <a href="https://developer.android.com/studio" title="Android Studio"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="40" height="40"/></a>&emsp;
         <a href="https://www.figma.com/support/" title="Figma"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/></a>&emsp;
         <a href="https://vitejs.dev/guide/" title="ViteJS"><img src="https://skillicons.dev/icons?i=vite" alt="ViteJS" width="40" height="40"/></a>&emsp;
-        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://raw.githubusercontent.com/CodeSmith/CodeSmith.github.io/main/icons/socketio.svg" alt="SocketIO" width="40" height="40"/></a>&emsp;
+        <a href="https://socket.io/docs/v4/" title="SocketIO"><img src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg.github.io/main/icons/socketio.svg" alt="SocketIO" width="40" height="40"/></a>&emsp;
     </div>
 </div>
 <br/>
 
 ## 🐍 Contribution Snake
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeSmith/CodeSmith/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeSmith/CodeSmith/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CodeSmith/CodeSmith/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ChiragChrg/ChiragChrg/output/github-contribution-grid-snake.svg">
 </picture>
